@@ -1,0 +1,9 @@
+.background_cover {
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+#home {
+	background-image:url('img/ChairmansAward_Winner_blur.jpg');
+}
