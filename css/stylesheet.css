@@ -5,5 +5,14 @@
 }
 
 #home {
-	background-image:url('img/ChairmansAward_Winner_blur.jpg');
+	background-image:url('../img/ChairmansAward_Winner_blur.jpg');
+}
+
+.about_us_cover {
+	background-image:url('../img/12511821_10153571640348551_1759589978_n.jpg');
+	height:300px;
+}
+
+.centered_image {
+    text-align: center;
 }
