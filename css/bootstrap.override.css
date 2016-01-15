@@ -10,3 +10,8 @@
 .jumbotron h1 {
 	font-size: 36px;
 }
+
+/*.active li{
+	-webkit-transition: background-image 5s ease-in-out;
+	transition: background-image 5s ease-in-out;
+}*/
