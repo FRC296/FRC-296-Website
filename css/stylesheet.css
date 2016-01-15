@@ -8,11 +8,28 @@
 	background-image:url('../img/ChairmansAward_Winner_blur.jpg');
 }
 
+#news {
+	/*background-color:#800000;*/
+	background-color:#FFD700;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
 .about_us_cover {
 	background-image:url('../img/12511821_10153571640348551_1759589978_n.jpg');
 	height:300px;
 }
 
 .centered_image {
-    text-align: center;
+    /*text-align: center;*/
+	margin: 0 auto;
+}
+
+.main_background_cover {
+	background-color:#FFD700;
+}
+
+#aboutfirst {
+	padding-top:15px;
+	padding-bottom:15px;
 }
