@@ -1,0 +1,14 @@
+{
+  "template": {
+    "en": "b",
+    "fr": "d"
+  },
+  "home_nav": {
+    "en": "Home",
+    "fr": "Acceuil"
+  },
+  "title" : {
+    "en": "Two Schools, One Team",
+    "fr": "Deux Écoles, Un Équipe"
+  }
+}

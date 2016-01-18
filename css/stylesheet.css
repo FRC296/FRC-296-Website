@@ -27,6 +27,7 @@
 
 .main_background_cover {
 	background-color:#FFD700;
+	/*background-color:#800000;*/
 }
 
 #aboutfirst {
@@ -43,4 +44,8 @@
 	background-image:url('../img/12499216_10153571635193551_1903686579_o.jpg');
 	background-position:center bottom;
 	height:300px;
+}
+
+p {
+	text-align:justify;
 }

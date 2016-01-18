@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>title</title>
+    <title>FRC Team 296</title>
 	
 	<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
 
@@ -18,6 +18,47 @@
 	
 	<link rel="stylesheet" href="css/bootstrap.override.css">
 	<link rel="stylesheet" href="css/stylesheet.css">
+
+	<script type="text/javascript">
+		/*
+		var translations;
+		$.getJSON('json/translations.json', function(data) { 
+			translations=data;
+		}); 
+		
+		function _(key)
+		{
+			return translations[key]["en"];
+		}
+		*/
+	</script>
+	
+	<?php 
+		
+		$json_data = file_get_contents('json/translations.json');
+		$translations = json_decode($json_data, true);
+		/*$translations = json_decode('{
+		  "template": {
+			"en": "b",
+			"fr": "d"
+		  },
+		  "home_nav": {
+			"en": "Home",
+			"fr": "Acceuil"
+		  },
+		  "title" : {
+			"en": "Two Schools, One Team",
+			"fr": "Deux Écoles, Un Équipe"
+		  }
+		}');*/
+		
+		function t($key)
+		{
+			return "foo";
+			return $translations['title']['en'];
+			return $translations[$key]['en'];
+		}
+	?>
 	
   </head>
   <body data-spy="scroll" data-target="#navbar-main">
@@ -40,12 +81,21 @@
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			  <ul class="nav navbar-nav">
-				<li class="active"><a href="#home" data-scroll="#home">Home</a></li>
+				<li class="active"><a href="#home" data-scroll="#home"><?php echo t("home_nav"); ?></a></li>
 				<li ><a href="#news" data-scroll="#news">News</a></li>
 				<li ><a href="#aboutus" data-scroll="#aboutus">About Us</a></li>
 				<li ><a href="#aboutfirst" data-scroll="#aboutfirst">About First</a></li>
 				<li ><a href="#sponsors" data-scroll="#sponsors">Sponsors</a></li>
 				<li ><a href="#contact" data-scroll="#contact">Contact Us</a></li>
+			  </ul>
+			  <ul class="nav navbar-nav navbar-right">
+				<li class="dropdown">
+				  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language <span class="caret"></span></a>
+				  <ul class="dropdown-menu">
+					<li><a href="#">English</a></li>
+					<li><a href="#">Français</a></li>
+				  </ul>
+				</li>
 			  </ul>
 			</div><!-- /.navbar-collapse -->
 		  </div><!-- /.container-fluid -->
@@ -72,6 +122,12 @@
 				<div class="">
 					<h1>Two Schools, One Team</h1>
 					<blockquote><p style="font-size:24px">Since 1999, the Northern Knights, a high school robotics team bringing together students from Loyola High School and the Sacred Heart School of Montreal, has competed in the FIRST (For Inspiration and Recognition of Science and Technology) Robotics Competition (“FRC”). FRC is an international student robotics competition brings together over 2900 teams from over 19 countries, to complete in the annual challenge designed by FIRST. A challenge, which allows us students to experience the practical side of the sciences and develop invaluable real-world skills.</p></blockquote>
+					
+					<?php
+						var_dump($translations);
+						var_dump(t('title'));
+						var_dump($translations['title']['en']);
+					?>
 				</div>
 			</div>
 		</div>
