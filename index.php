@@ -6,6 +6,8 @@
 	
 	<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
 
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
 	<!-- Latest compiled and minified JavaScript -->
 	<script src="bootstrap/js/bootstrap.min.js"></script>
 	
@@ -93,7 +95,7 @@
 				  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Language <span class="caret"></span></a>
 				  <ul class="dropdown-menu">
 					<li><a href="#">English</a></li>
-					<li><a href="#">Français</a></li>
+					<li><a href="#">Français (Traduction en cours)</a></li>
 				  </ul>
 				</li>
 			  </ul>
@@ -131,6 +133,17 @@
 				</div>
 			</div>
 		</div>
+		<div class="row">
+			<div class="col-xs-4">
+				<img class="img-responsive sp_image" src="img/unnamed.jpg"/>
+			</div>
+			<div class="col-xs-4">
+				<img class="img-responsive sp_image" src="img/unnamed.png"/>
+			</div>
+			<div class="col-xs-4">
+				<img class="img-responsive sp_image" src="img/unnamed (1).jpg"/>
+			</div>
+		</div>
 	</div>
 	<div id="news" style="" data-offset="51">
 		<div class="container">
@@ -141,7 +154,8 @@
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</div>
 				<div class="col-lg-6">
-					Instagram
+					<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:37.5% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BAVL0iIoXKE/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Strategy planking for 2016 kickoff!</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Northern Knights (@team296) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-01-09T20:03:35+00:00">Jan 9, 2016 at 12:03pm PST</time></p></div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 				</div>
 			</div>
 		</div>
@@ -183,7 +197,31 @@
 		<div class="container">
 			<div class="jumbotron">
 				<h1>Our sponsors</h1>
-				<p>Lorizzle ipsizzle black sit amizzle, consectetizzle adipiscing elit. Nullizzle yo mamma velizzle, sizzle volutpizzle, suscipit dawg, gravida vel, crazy. Pellentesque shizznit fo. That's the shizzle eros. Daahng dawg shiznit gizzle dapibizzle pizzle shut the shizzle up mah nizzle. Maurizzle pellentesque nibh dang turpizzle. For sure fizzle tortizzle. Pellentesque shut the shizzle up check it out away. In hac habitasse platea things. Go to hizzle uhuh ... yih!. Curabitur ma nizzle yippiyo, pretizzle shizzle my nizzle crocodizzle, mammasay mammasa mamma oo sa go to hizzle, eleifend hizzle, nunc. Break yo neck, yall suscipizzle. Integer semper velit mah nizzle break it down.</p>
+				<br/>
+				<div class="row sp_container">
+					<div class="col-md-3">
+						<a href="http://loyola.ca/"><img class="img-responsive sp_image" src="img/unnamed.jpg"/></a>
+					</div>
+					<div class="col-md-9">
+						<p>Loyola High School is a Jesuit, Catholic school for boys in Montreal, Quebec. Founded in 1896, Loyola has a long tradition of excellence of educating "Men for Others" who are intellectually competent, open to growth, religious, loving and committed to doing justice.</p>
+					</div>
+				</div>
+				<div class="row sp_container">
+					<div class="col-md-3 col-md-push-9">
+						<a href="http://www.sacredheart.qc.ca/"><img class="img-responsive sp_image" src="img/unnamed.png"/></a>
+					</div>
+					<div class="col-md-9 col-md-pull-3">
+						<p>The Sacred Heart School of Montreal is a Catholic school for girls in Montreal, Quebec. Founded in 1861, Sacred Heart aims to instil the values that Saint Madeleine Sophie so valued all the while promoting creative education and leadership framed by the five goals of a Sacred Heart education. The truly international character of a Sacred Heart School aids in fostering a global education and citizenship in our girls.</p>
+					</div>
+				</div>
+				<div class="row sp_container">
+					<div class="col-md-3">
+						<a href="http://www.robotmaster.com/en/"><img class="img-responsive sp_image" src="img/unnamed (1).jpg"/></a>
+					</div>
+					<div class="col-md-9">
+						<p>Robomaster Inc., a division of Hypertherm Inc., is a developer of easy industrial robot programming tools that efficiently generate CAD/CAM-based robot trajectories to increase robot capacity and flexibility in the aerospace, transport, high technology, military, medical and industrial manufacturing markets.</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -199,8 +237,8 @@
 						<address>
 							Email: <a href="mailto:robotics296@loyola.ca">robotics296@loyola.ca</a></br>
 							Twitter: <a href="https://twitter.com/frc296">https://twitter.com/frc296</a> </br>
-							Instagram: </br>
-							Youtube: </br>
+							Instagram: <a href="https://www.instagram.com/team296/">https://www.instagram.com/team296/</a></br>
+							Youtube: <a href="https://www.youtube.com/channel/UC3WtrZ3iW2__iUDID5-4jqA">https://www.youtube.com/user/FRC296</a> </br>
 						</address>
 					</div>
 				</div>
@@ -236,7 +274,7 @@
 							3635 Avenue Atwater</br>
 							Montréal, Quebec</br>
 							Canada, H3H 1Y4</br>
-							<abbr title="Phone">P:</abbr>
+							<abbr title="Phone">P:</abbr> (514) 937-2845
 						</address>
 					</div>
 					<div class="col-lg-8 col-lg-pull-4">
