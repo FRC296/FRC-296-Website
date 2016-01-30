@@ -123,7 +123,7 @@
 			<div class="col-xs-12">
 				<div class="">
 					<h1>Two Schools, One Team</h1>
-					<blockquote><p style="font-size:24px">Since 1999, the Northern Knights, a high school robotics team bringing together students from Loyola High School and the Sacred Heart School of Montreal, has competed in the FIRST (For Inspiration and Recognition of Science and Technology) Robotics Competition (“FRC”). FRC is an international student robotics competition brings together over 2900 teams from over 19 countries, to complete in the annual challenge designed by FIRST. A challenge, which allows us students to experience the practical side of the sciences and develop invaluable real-world skills.</p></blockquote>
+					<blockquote><p>Since 1999, the Northern Knights, a high school robotics team bringing together students from Loyola High School and the Sacred Heart School of Montreal, has competed in the FIRST (For Inspiration and Recognition of Science and Technology) Robotics Competition (“FRC”). FRC is an international student robotics competition brings together over 2900 teams from over 19 countries, to complete in the annual challenge designed by FIRST. A challenge, which allows us students to experience the practical side of the sciences and develop invaluable real-world skills.</p></blockquote>
 					
 					<?php
 						//var_dump($translations);
@@ -134,13 +134,13 @@
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-xs-4">
+			<div class="col-sm-4">
 				<img class="img-responsive sp_image" src="img/unnamed.jpg"/>
 			</div>
-			<div class="col-xs-4">
+			<div class="col-sm-4">
 				<img class="img-responsive sp_image" src="img/unnamed.png"/>
 			</div>
-			<div class="col-xs-4">
+			<div class="col-sm-4">
 				<img class="img-responsive sp_image" src="img/unnamed (1).jpg"/>
 			</div>
 		</div>

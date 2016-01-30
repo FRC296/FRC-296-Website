@@ -11,6 +11,20 @@
 	font-size: 36px;
 }
 
+blockquote p{
+	font-size:24px;
+}
+
+
+@media (max-width: 768px) {
+	.jumbotron p {
+		font-size: 18px;
+	}
+	
+	blockquote p{
+		font-size:18px;
+	}
+}
 /*.active li{
 	-webkit-transition: background-image 5s ease-in-out;
 	transition: background-image 5s ease-in-out;
