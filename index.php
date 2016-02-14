@@ -144,6 +144,17 @@
 				<img class="img-responsive sp_image" src="img/unnamed (1).jpg"/>
 			</div>
 		</div>
+		<div class="row">
+			<div class="col-sm-4">
+				<img class="img-responsive sp_image" src="img/coveloz-main_logo_colour-300x87.png"/>
+			</div>
+			<div class="col-sm-4">
+				<img class="img-responsive sp_image" src="img/rbc_wealthmanagement_en_HNW_v3.gif"/>
+			</div>
+			<div class="col-sm-4">
+				<img class="img-responsive sp_image" src="img/RFQ.jpg"/>
+			</div>		
+		</div>
 	</div>
 	<div id="news" style="" data-offset="51">
 		<div class="container">
@@ -203,7 +214,7 @@
 						<a href="http://loyola.ca/"><img class="img-responsive sp_image" src="img/unnamed.jpg"/></a>
 					</div>
 					<div class="col-md-9">
-						<p>Loyola High School is a Jesuit, Catholic school for boys in Montreal, Quebec. Founded in 1896, Loyola has a long tradition of excellence of educating "Men for Others" who are intellectually competent, open to growth, religious, loving and committed to doing justice.</p>
+						<p><strong>Loyola High School</strong> is a Jesuit, Catholic school for boys in Montreal, Quebec. Founded in 1896, Loyola has a long tradition of excellence of educating "Men for Others" who are intellectually competent, open to growth, religious, loving and committed to doing justice.</p>
 					</div>
 				</div>
 				<div class="row sp_container">
@@ -211,7 +222,7 @@
 						<a href="http://www.sacredheart.qc.ca/"><img class="img-responsive sp_image" src="img/unnamed.png"/></a>
 					</div>
 					<div class="col-md-9 col-md-pull-3">
-						<p>The Sacred Heart School of Montreal is a Catholic school for girls in Montreal, Quebec. Founded in 1861, Sacred Heart aims to instil the values that Saint Madeleine Sophie so valued all the while promoting creative education and leadership framed by the five goals of a Sacred Heart education. The truly international character of a Sacred Heart School aids in fostering a global education and citizenship in our girls.</p>
+						<p><strong>The Sacred Heart School</strong> of Montreal is a Catholic school for girls in Montreal, Quebec. Founded in 1861, Sacred Heart aims to instil the values that Saint Madeleine Sophie so valued all the while promoting creative education and leadership framed by the five goals of a Sacred Heart education. The truly international character of a Sacred Heart School aids in fostering a global education and citizenship in our girls.</p>
 					</div>
 				</div>
 				<div class="row sp_container">
@@ -219,7 +230,23 @@
 						<a href="http://www.robotmaster.com/en/"><img class="img-responsive sp_image" src="img/unnamed (1).jpg"/></a>
 					</div>
 					<div class="col-md-9">
-						<p>Robomaster Inc., a division of Hypertherm Inc., is a developer of easy industrial robot programming tools that efficiently generate CAD/CAM-based robot trajectories to increase robot capacity and flexibility in the aerospace, transport, high technology, military, medical and industrial manufacturing markets.</p>
+						<p><strong>Robomaster Inc.</strong>, a division of Hypertherm Inc., is a developer of easy industrial robot programming tools that efficiently generate CAD/CAM-based robot trajectories to increase robot capacity and flexibility in the aerospace, transport, high technology, military, medical and industrial manufacturing markets.</p>
+					</div>
+				</div>
+				<div class="row sp_container">
+					<div class="col-md-3 col-md-push-9">
+						<a href="http://coveloz.com/"><img class="img-responsive sp_image" src="img/coveloz-main_logo_colour-300x87.png"/></a>
+					</div>
+					<div class="col-md-9 col-md-pull-3">
+						<p><strong>Coveloz Consultants</strong>, is a specialist technology firm founded in 2009 to deliver collaborative programmable solutions quickly and efficiently. They have a very strong presence throughout Canada spreading from Ottawa to Toronto to Vancouver, as well as Germany. </p>
+					</div>
+				</div>
+				<div class="row sp_container">
+					<div class="col-md-3">
+						<a href="http://www.rbcphnic.com/"><img class="img-responsive sp_image" src="img/rbc_wealthmanagement_en_HNW_v3.gif"/></a>
+					</div>
+					<div class="col-md-9">
+						<p><strong>RBC Phillips Hager and North</strong> is one of Canada’s premier investment counselling boutiques. Their discretionary wealth management services go beyond traditional wealth management to help their high-net-worth clients grow and preserve their wealth now and for generations to come.</p>
 					</div>
 				</div>
 				<div class="row sp_container">
@@ -227,7 +254,23 @@
 						<a href="http://www.robotiquefirstquebec.org/"><img class="img-responsive sp_image" src="img/RFQ.jpg"/></a>
 					</div>
 					<div class="col-md-9 col-md-pull-3">
-						<p><span>Robotique FIRST Quebec</span> is an international competition that fosters inspiration and recognition of science and technology among young people of Quebec by; engaging in an innovative mentoring program in robotics that relies on the expertise of engineers and academics, while promoting a balance of life, including-self confidence, communication and leadership. FIRST encourages more involvement in society, while enjoying the satisfaction of acting and competing with respect and integrity.</p>
+						<p><strong>Robotique FIRST Quebec</strong> is an international competition that fosters inspiration and recognition of science and technology among young people of Quebec by; engaging in an innovative mentoring program in robotics that relies on the expertise of engineers and academics, while promoting a balance of life, including-self confidence, communication and leadership. FIRST encourages more involvement in society, while enjoying the satisfaction of acting and competing with respect and integrity.</p>
+					</div>
+				</div>
+				<div class="row sp_container">
+					<div class="col-md-3">
+						<a href="http://www.unisafety.com/"><img class="img-responsive sp_image" src="img/Capture1.PNG"/></a>
+					</div>
+					<div class="col-md-9">
+						<p><strong>Universel Safety inc.</strong> was built on the idea of a company that was prepared and organized enough to serve as a dedicated supplier for commercial safety products, industrial and government level agencies, while satisfying the individual worker with an inviting boutique.</p>
+					</div>
+				</div>
+				<div class="row sp_container">
+					<div class="col-md-3 col-md-push-9">
+						<a href="https://fruiteriedollard.com/"><img class="img-responsive sp_image" src="img/15808346aa_t.gif"/></a>
+					</div>
+					<div class="col-md-9 col-md-pull-3">
+						<p><strong>Fruiterie Dollard</strong> is a market with an assortment of foods from all around the world, including the finest and freshest fruits, vegetables, meats, and much more, with service that is beyond comparable.</p>
 					</div>
 				</div>
 			</div>
