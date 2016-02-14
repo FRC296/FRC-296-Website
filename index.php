@@ -222,6 +222,14 @@
 						<p>Robomaster Inc., a division of Hypertherm Inc., is a developer of easy industrial robot programming tools that efficiently generate CAD/CAM-based robot trajectories to increase robot capacity and flexibility in the aerospace, transport, high technology, military, medical and industrial manufacturing markets.</p>
 					</div>
 				</div>
+				<div class="row sp_container">
+					<div class="col-md-3 col-md-push-9">
+						<a href="http://www.robotiquefirstquebec.org/"><img class="img-responsive sp_image" src="img/RFQ.jpg"/></a>
+					</div>
+					<div class="col-md-9 col-md-pull-3">
+						<p><span>Robotique FIRST Quebec</span> is an international competition that fosters inspiration and recognition of science and technology among young people of Quebec by; engaging in an innovative mentoring program in robotics that relies on the expertise of engineers and academics, while promoting a balance of life, including-self confidence, communication and leadership. FIRST encourages more involvement in society, while enjoying the satisfaction of acting and competing with respect and integrity.</p>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
