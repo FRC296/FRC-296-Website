@@ -4,6 +4,10 @@
     <meta charset="utf-8">
     <title>FRC Team 296</title>
 	
+	<link rel="icon" type="image/png" href="favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
+
+
 	<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -141,7 +145,7 @@
 				<img class="img-responsive sp_image" src="img/unnamed.png"/>
 			</div>
 			<div class="col-sm-4">
-				<img class="img-responsive sp_image" src="img/unnamed (1).jpg"/>
+				<img class="img-responsive sp_image" src="img/hypertherm-front-page-copy.jpg"/>
 			</div>
 		</div>
 		<div class="row">
@@ -227,10 +231,10 @@
 				</div>
 				<div class="row sp_container">
 					<div class="col-md-3">
-						<a href="http://www.robotmaster.com/en/"><img class="img-responsive sp_image" src="img/unnamed (1).jpg"/></a>
+						<a href="https://www.hypertherm.com/en-us/"><img class="img-responsive sp_image" src="img/hypertherm-front-page-copy.jpg"/></a>
 					</div>
 					<div class="col-md-9">
-						<p><strong>Robomaster Inc.</strong>, a division of Hypertherm Inc., is a developer of easy industrial robot programming tools that efficiently generate CAD/CAM-based robot trajectories to increase robot capacity and flexibility in the aerospace, transport, high technology, military, medical and industrial manufacturing markets.</p>
+						<p><strong>Hypertherm</strong> designs and manufactures advanced cutting systems such as plasma cutting machinery and related high-technology industrial applications for specific use in a wide variety of industries such as shipbuilding, manufacturing, and automotive repair. It also develops and produces man-portable handheld and mechanized plasma cutters, fiber lasers, and waterjet cutting systems, along with consumables, CNC motion and height controls, and nesting and process optimization software.</p>
 					</div>
 				</div>
 				<div class="row sp_container">
