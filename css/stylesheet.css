@@ -59,3 +59,9 @@ p {
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
+
+.vision_us_cover {
+    background-image:url('../img/10291305_1127156990682686_6044551801344533521_n.jpg');
+	background-position:center center;
+	height:300px;
+}
