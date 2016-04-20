@@ -92,6 +92,7 @@
 				<li ><a href="#aboutus" data-scroll="#aboutus">About Us</a></li>
 				<li ><a href="#aboutfirst" data-scroll="#aboutfirst">About First</a></li>
 				<li ><a href="#sponsors" data-scroll="#sponsors">Sponsors</a></li>
+                <li ><a href="#vision" data-scroll="#vision">Robotic Vision</a></li>
 				<li ><a href="#contact" data-scroll="#contact">Contact Us</a></li>
 			  </ul>
 			  <ul class="nav navbar-nav navbar-right">
@@ -280,6 +281,26 @@
 			</div>
 		</div>
 	</div>
+    <div class="background_cover vision_us_cover" id="vision" data-offset="51">
+		
+	</div>
+    <div class="main_background_cover">
+        <div class="container">
+			<div class="jumbotron">
+                <div class="row">
+					<div class="col-lg-12">
+                        <h1>Vision for our Robots</h1>
+                        <p>One of the challenges in controls for the FIRST robotics competition is to integrate automation and assisted controls in game to achieve the point scoring objectives. We use a variety of encoders and sensors to try and provide feedback to the robot in autonomous mode and to the driver in tele-operated mode.  One such challenge is the integration of vision for our robot. While <a href="http://www.cctvcameraworld.com/ip-cameras.html">network based cameras like these</a> are inexpensive and readily available in different shapes and sizes, we have had some problems integrating it with the control system, and since have moved to USB type cameras.</p>
+                        <p>To integrate vision, we are using a 4-channel USB DVR along with small analog cameras to take advantage of multiple points of view (POV) to have both forward and rear-view vision.</p>
+                        <p>There is a 15 second autonomous mode at the start of each match where the robot must run solely on pre-programmed instructions and feedback loops from the sensors. The small camera can be used to locate the retro-reflective tape installed around the goals. Additionally, during tele-operated mode, the driver is across the playing field from the goals, and the view of the robot is often obstructed by the field elements and other robots.</p>
+                        <p>The vision tracking is used to identify and automate end effector actuation to manipulate the game pieces. The front POV camera is used to drive the robot up to the game piece in order to manipulate the game piece, and to identify where the robot must drive to in order to score the game piece. The rear POV camera is often used by the driver, when the robot cannot be seen from the driver station, to orient the robot on the field and defend against incoming opponents.</p>
+                        <p>Our current implementation uses the front POV camera and an alternating color light in order to find the grey game balls. This is used to drive up to the ball and lower the end effector to pick it up. The proximity to the ball is determined using size and position in the POV. The rear view camera is used to help the driver orient the robot when his view is obstructed.</p>
+                        <p>As explained in this <a href="http://www.cctvcameraworld.com/wireless-ip-camera-setup-guide/">wireless ip camera setup guide</a>, IP cameras offer several advantages over analog cameras, especially the ability to send video wirelessly for several cameras over one stream. They also provide the possibility to stitch video together to form a 360 view in a way similar to <a href="http://www.360heros.com/">360heros</a>. For the future, we will continue to experiment with the implementation of IP cameras as they offer different possibilities.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 	<div class="background_cover contact_us_cover" id="contact" data-offset="51">
 		
 	</div>
