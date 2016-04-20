@@ -231,10 +231,10 @@
 				</div>
 				<div class="row sp_container">
 					<div class="col-md-3">
-						<a href="https://www.hypertherm.com/en-us/"><img class="img-responsive sp_image" src="img/hypertherm-front-page-copy.jpg"/></a>
+						<a href="http://www.robotmaster.com/en/"><img class="img-responsive sp_image" src="img/hypertherm-front-page-copy.jpg"/></a>
 					</div>
 					<div class="col-md-9">
-						<p><strong>Hypertherm</strong> designs and manufactures advanced cutting systems such as plasma cutting machinery and related high-technology industrial applications for specific use in a wide variety of industries such as shipbuilding, manufacturing, and automotive repair. It also develops and produces man-portable handheld and mechanized plasma cutters, fiber lasers, and waterjet cutting systems, along with consumables, CNC motion and height controls, and nesting and process optimization software.</p>
+						<p><strong>Hypertherm</strong> focuses on the development of easy offline industrial robot programming tools that efficiently generate CAD/CAM-based robot trajectories to increase robot capacity and flexibility in the aerospace, transport, high technology, military, medical and industrial manufacturing markets. They provide integrated solutions that meet evolving industry requirements and challenges.</p>
 					</div>
 				</div>
 				<div class="row sp_container">
