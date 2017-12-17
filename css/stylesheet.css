@@ -8,6 +8,29 @@
 	background-image:url('../img/ChairmansAward_Winner_blur.jpg');
 }
 
+
+.sp_top_container {
+    display: table;
+    width: 100%;
+}
+
+.sp__item {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+@media (max-width: 768px) {
+    .sp_top_container {
+        display: block;
+        width: 100%;
+    }
+    
+    .sp__item {
+        display: block;
+        padding: 20px 0;
+    }
+}
+
 #news {
 	/*background-color:#800000;*/
 	background-color:#FFD700;
@@ -58,6 +81,12 @@ p {
 .sp_container {
 	padding-top: 5px;
 	padding-bottom: 5px;
+}
+
+@media (max-width: 768px) {
+    .sp_container p {
+        padding-top: 10px;
+    }
 }
 
 .vision_us_cover {
