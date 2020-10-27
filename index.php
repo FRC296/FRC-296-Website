@@ -88,6 +88,7 @@
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			  <ul class="nav navbar-nav">
 				<li class="active"><a href="#home" data-scroll="#home"><?php echo "Home"; ?></a></li>
+				<li><a href="https://moodle.loyola.ca/course/view.php?id=549">Moodle <span class="glyphicon glyphicon-new-window" aria-hidden="true"></span></a>
 				<li ><a href="#news" data-scroll="#news">News</a></li>
 				<li ><a href="#aboutus" data-scroll="#aboutus">About Us</a></li>
 				<li ><a href="#aboutfirst" data-scroll="#aboutfirst">About First</a></li>
@@ -319,7 +320,7 @@
 		   offset: offsetHeight
 		});
 		
-		$('.navbar li a').click(function (event) {
+		$('.navbar li a[data-scroll]').click(function (event) {
 			event.preventDefault();
 			
 			console.log($(this).data('scroll'));
